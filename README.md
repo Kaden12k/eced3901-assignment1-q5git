@@ -1,3 +1,8 @@
-# eced3901-assignment1-q5git
+git clone https://github.com/Kaden12k/eced3901-assignment1-q5git.git
+cd eced3901-assignment1-q5git
+git checkout -b branch-q5
+eced3901-assignment1-q5git
 
-Here is some README file! You should change it...
+Modified by: B00877766
+
+
